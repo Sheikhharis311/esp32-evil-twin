@@ -1,4 +1,15 @@
+# Introduction
 
+Hello! My name is **Sheikh Haris Raza**.  
+I am a student of **Electrical Engineering** at **KDK College of Engineering**.  
+
+## About Me
+I am passionate about learning new technologies, exploring engineering concepts, and applying them in real-world projects. I am eager to grow my skills in the field of Electrical Engineering and contribute to innovative projects.
+
+## Contact
+- **Name:** Sheikh Haris Raza
+- **College:** KDK College of Engineering
+- **Branch:** Electrical Engineering
 
 ---
 
