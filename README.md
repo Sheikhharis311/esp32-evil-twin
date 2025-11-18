@@ -25,9 +25,9 @@ I am passionate about learning new technologies, exploring engineering concepts,
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
-*Active since*: `September 2024`
+*Active since*: `September 2025`
 
-**Account From:** `September 2020`
+**Account From:** `September 2024`
 
 ---
 
