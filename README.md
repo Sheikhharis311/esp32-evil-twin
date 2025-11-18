@@ -10,7 +10,7 @@
 
 ---
 
-# 🚨 ESP32 Evil Twin WiFi Hacking | Deauthentication & Captive Portal 🚨
+# 🚨 ESP32 Evil Twin WiFi Hacking 🚨
 
 > **Disclaimer:** This project is for **educational purposes only**. Use it responsibly and legally. Unauthorized attacks on networks are illegal in most countries. 🌐🔒
 
