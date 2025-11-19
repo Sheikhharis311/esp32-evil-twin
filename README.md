@@ -59,8 +59,7 @@ The project leverages **HTML**, **CSS**, and **JavaScript** to build a custom fr
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/aadesh0706/IOT-ESP32-Evil-Twin-WiFi-Hacking-Deauthentication-Captive-Portal.git
-cd IOT-ESP32-Evil-Twin-WiFi-Hacking-Deauthentication-Captive-Portal
+git clone https://github.com/Sheikhharis311/esp32-evil-twin
 ```
 
 ### 2️⃣ **Install Required Libraries**
